@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|c:\\users\\sarib\\onedrive\\masa\u00FCst\u00FC\\kitapl\u0131k web\\kitapl\u0131k\\kitapl\u0131k\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|solutionrelative:kitapl\u0131k\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|c:\\users\\sarib\\onedrive\\masa\u00FCst\u00FC\\kitapl\u0131k web\\kitapl\u0131k\\kitapl\u0131k\\models\\kitaptururepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|solutionrelative:kitapl\u0131k\\models\\kitaptururepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|c:\\users\\sarib\\onedrive\\masa\u00FCst\u00FC\\kitapl\u0131k web\\kitapl\u0131k\\kitapl\u0131k\\models\\ikitaptururepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|solutionrelative:kitapl\u0131k\\models\\ikitaptururepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|c:\\users\\sarib\\onedrive\\masa\u00FCst\u00FC\\kitapl\u0131k web\\kitapl\u0131k\\kitapl\u0131k\\not.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|solutionrelative:kitapl\u0131k\\not.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|c:\\users\\sarib\\onedrive\\masa\u00FCst\u00FC\\kitapl\u0131k web\\kitapl\u0131k\\kitapl\u0131k\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|solutionrelative:kitapl\u0131k\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|c:\\users\\sarib\\onedrive\\masa\u00FCst\u00FC\\kitapl\u0131k web\\kitapl\u0131k\\kitapl\u0131k\\utility\\uygulamadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|solutionrelative:kitapl\u0131k\\utility\\uygulamadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|c:\\users\\sarib\\onedrive\\masa\u00FCst\u00FC\\kitapl\u0131k web\\kitapl\u0131k\\kitapl\u0131k\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|solutionrelative:kitapl\u0131k\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|c:\\users\\sarib\\onedrive\\masa\u00FCst\u00FC\\kitapl\u0131k web\\kitapl\u0131k\\kitapl\u0131k\\models\\kitaptur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|solutionrelative:kitapl\u0131k\\models\\kitaptur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|c:\\users\\sarib\\onedrive\\masa\u00FCst\u00FC\\kitapl\u0131k web\\kitapl\u0131k\\kitapl\u0131k\\views\\kitapturu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|solutionrelative:kitapl\u0131k\\views\\kitapturu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|c:\\users\\sarib\\onedrive\\masa\u00FCst\u00FC\\kitapl\u0131k web\\kitapl\u0131k\\kitapl\u0131k\\controllers\\kitapturucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|solutionrelative:kitapl\u0131k\\controllers\\kitapturucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|c:\\users\\sarib\\onedrive\\masa\u00FCst\u00FC\\kitapl\u0131k web\\kitapl\u0131k\\kitapl\u0131k\\views\\kitapturu\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|solutionrelative:kitapl\u0131k\\views\\kitapturu\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|c:\\users\\sarib\\onedrive\\masa\u00FCst\u00FC\\kitapl\u0131k web\\kitapl\u0131k\\kitapl\u0131k\\views\\kitapturu\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|solutionrelative:kitapl\u0131k\\views\\kitapturu\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|c:\\users\\sarib\\onedrive\\masa\u00FCst\u00FC\\kitapl\u0131k web\\kitapl\u0131k\\kitapl\u0131k\\views\\kitapturu\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|solutionrelative:kitapl\u0131k\\views\\kitapturu\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|c:\\users\\sarib\\onedrive\\masa\u00FCst\u00FC\\kitapl\u0131k web\\kitapl\u0131k\\kitapl\u0131k\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|solutionrelative:kitapl\u0131k\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|c:\\users\\sarib\\onedrive\\masa\u00FCst\u00FC\\kitapl\u0131k web\\kitapl\u0131k\\kitapl\u0131k\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|solutionrelative:kitapl\u0131k\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|c:\\users\\sarib\\onedrive\\masa\u00FCst\u00FC\\kitapl\u0131k web\\kitapl\u0131k\\kitapl\u0131k\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|solutionrelative:kitapl\u0131k\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|c:\\users\\sarib\\onedrive\\masa\u00FCst\u00FC\\kitapl\u0131k web\\kitapl\u0131k\\kitapl\u0131k\\kitapl\u0131k.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6153004B-A7E9-4EDF-9245-54064F95547D}|Kitapl\u0131k\\Kitapl\u0131k.csproj|solutionrelative:kitapl\u0131k\\kitapl\u0131k.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KitapTuruRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Models\\KitapTuruRepository.cs",
+              "RelativeDocumentMoniker": "Kitapl\u0131k\\Models\\KitapTuruRepository.cs",
+              "ToolTip": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Models\\KitapTuruRepository.cs*",
+              "RelativeToolTip": "Kitapl\u0131k\\Models\\KitapTuruRepository.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T10:55:58.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Kitapl\u0131k\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Kitapl\u0131k\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwBQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T11:13:29.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IKitapTuruRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Models\\IKitapTuruRepository.cs",
+              "RelativeDocumentMoniker": "Kitapl\u0131k\\Models\\IKitapTuruRepository.cs",
+              "ToolTip": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Models\\IKitapTuruRepository.cs",
+              "RelativeToolTip": "Kitapl\u0131k\\Models\\IKitapTuruRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:46:46.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "Kitapl\u0131k\\Models\\Repository.cs",
+              "ToolTip": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Models\\Repository.cs",
+              "RelativeToolTip": "Kitapl\u0131k\\Models\\Repository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:41:19.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Not.cs",
+              "DocumentMoniker": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Not.cs",
+              "RelativeDocumentMoniker": "Kitapl\u0131k\\Not.cs",
+              "ToolTip": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Not.cs*",
+              "RelativeToolTip": "Kitapl\u0131k\\Not.cs*",
+              "ViewState": "AQIAABYBAAAAAAAAAAAgwCoBAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:36:41.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UygulamaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Utility\\UygulamaDbContext.cs",
+              "RelativeDocumentMoniker": "Kitapl\u0131k\\Utility\\UygulamaDbContext.cs",
+              "ToolTip": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Utility\\UygulamaDbContext.cs",
+              "RelativeToolTip": "Kitapl\u0131k\\Utility\\UygulamaDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:35:19.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Models\\IRepository.cs",
+              "RelativeDocumentMoniker": "Kitapl\u0131k\\Models\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Models\\IRepository.cs",
+              "RelativeToolTip": "Kitapl\u0131k\\Models\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:30:28.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KitapTur.cs",
+              "DocumentMoniker": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Models\\KitapTur.cs",
+              "RelativeDocumentMoniker": "Kitapl\u0131k\\Models\\KitapTur.cs",
+              "ToolTip": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Models\\KitapTur.cs",
+              "RelativeToolTip": "Kitapl\u0131k\\Models\\KitapTur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:50:03.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KitapTuruController.cs",
+              "DocumentMoniker": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Controllers\\KitapTuruController.cs",
+              "RelativeDocumentMoniker": "Kitapl\u0131k\\Controllers\\KitapTuruController.cs",
+              "ToolTip": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Controllers\\KitapTuruController.cs",
+              "RelativeToolTip": "Kitapl\u0131k\\Controllers\\KitapTuruController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAA1wF4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:04:35.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Views\\KitapTuru\\Index.cshtml",
+              "RelativeDocumentMoniker": "Kitapl\u0131k\\Views\\KitapTuru\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Views\\KitapTuru\\Index.cshtml",
+              "RelativeToolTip": "Kitapl\u0131k\\Views\\KitapTuru\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T11:10:32.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sil.cshtml",
+              "DocumentMoniker": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Views\\KitapTuru\\Sil.cshtml",
+              "RelativeDocumentMoniker": "Kitapl\u0131k\\Views\\KitapTuru\\Sil.cshtml",
+              "ToolTip": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Views\\KitapTuru\\Sil.cshtml",
+              "RelativeToolTip": "Kitapl\u0131k\\Views\\KitapTuru\\Sil.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T12:43:58.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Views\\KitapTuru\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "Kitapl\u0131k\\Views\\KitapTuru\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Views\\KitapTuru\\Guncelle.cshtml",
+              "RelativeToolTip": "Kitapl\u0131k\\Views\\KitapTuru\\Guncelle.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T11:19:24.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Views\\KitapTuru\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "Kitapl\u0131k\\Views\\KitapTuru\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Views\\KitapTuru\\Ekle.cshtml",
+              "RelativeToolTip": "Kitapl\u0131k\\Views\\KitapTuru\\Ekle.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T12:12:41.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Program.cs",
+              "RelativeDocumentMoniker": "Kitapl\u0131k\\Program.cs",
+              "ToolTip": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Program.cs",
+              "RelativeToolTip": "Kitapl\u0131k\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T22:21:24.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\appsettings.json",
+              "RelativeDocumentMoniker": "Kitapl\u0131k\\appsettings.json",
+              "ToolTip": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\appsettings.json",
+              "RelativeToolTip": "Kitapl\u0131k\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T11:00:23.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Kitapl\u0131k\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Kitapl\u0131k\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T22:16:00.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Kitapl\u0131k",
+              "DocumentMoniker": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Kitapl\u0131k.csproj",
+              "RelativeDocumentMoniker": "Kitapl\u0131k\\Kitapl\u0131k.csproj",
+              "ToolTip": "C:\\Users\\sarib\\OneDrive\\Masa\u00FCst\u00FC\\Kitapl\u0131k Web\\Kitapl\u0131k\\Kitapl\u0131k\\Kitapl\u0131k.csproj",
+              "RelativeToolTip": "Kitapl\u0131k\\Kitapl\u0131k.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-29T22:15:57.073Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
